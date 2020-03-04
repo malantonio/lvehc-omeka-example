@@ -1,0 +1,30 @@
+[submodule "omeka-s"]
+	path = public
+	url = https://github.com/omeka/omeka-s
+[submodule "modules/AltText"]
+	path = modules/AltText
+	url = https://github.com/zerocrates/AltText
+[submodule "modules/CSVImport"]
+	path = modules/CSVImport
+	url = https://github.com/omeka-s-modules/CSVImport
+[submodule "modules/CustomVocab"]
+	path = modules/CustomVocab
+	url = https://github.com/omeka-s-modules/CustomVocab
+[submodule "modules/FileSideload"]
+	path = modules/FileSideload
+	url = https://github.com/omeka-s-modules/FileSideload
+[submodule "modules/ValueSuggest"]
+	path = modules/ValueSuggest
+	url = https://github.com/omeka-s-modules/ValueSuggest
+[submodule "modules/AdvancedSearchPlus"]
+	path = modules/AdvancedSearchPlus
+	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus
+[submodule "modules/ItemCopy"]
+	path = modules/ItemCopy
+	url = https://github.com/gegedenice/ItemCopy
+[submodule "modules/Mapping"]
+	path = modules/Mapping
+	url = https://github.com/omeka-s-modules/Mapping
+[submodule "modules/MetadataBrowse"]
+	path = modules/MetadataBrowse
+	url = https://github.com/omeka-s-modules/MetadataBrowse
